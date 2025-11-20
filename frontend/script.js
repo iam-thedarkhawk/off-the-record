@@ -1,5 +1,6 @@
 document.addEventListener("DOMContentLoaded", () => {
-  const API_URL = "http://localhost:4000";
+  const API_URL = "https://off-the-record-1.onrender.com"; 
+
 
   //login
   const authContainer = document.getElementById("auth-container");
